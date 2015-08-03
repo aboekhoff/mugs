@@ -1,7 +1,10 @@
-# Phaser ES6 Quickstart
+# Mugs
 
-Install the LiveReload plugin for Chrome
-then start making some games!
+Entity component game engine on top of pixi.js
 
-    $ npm install
-    $ gulp
+An Entity is just an integer id
+Components are just data
+Systems operate on components
+
+Components are managed via object pools
+
